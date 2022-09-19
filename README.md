@@ -17,6 +17,10 @@ SATscoreGradrate - https://docs.google.com/spreadsheets/d/122bxKgl6ILLspKaheoECQ
 A data type and description for each attribute in the data
 <img width="1114" alt="Screenshot 2022-09-19 at 3 20 34 PM" src="https://user-images.githubusercontent.com/113871413/191109518-258084ec-2e02-4d1f-bf53-21e8627913a0.png">
 
+API Endpoints for 2012 SAT CSV and 2005-2010 Graduation outcomes
+https://data.cityofnewyork.us/resource/f9bf-2cp4.json
+https://data.cityofnewyork.us/resource/vh2h-md7a.json
+
 The MIT License (MIT)
 
 Copyright (c) 2022 Anjali Kanumuri
@@ -38,3 +42,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
