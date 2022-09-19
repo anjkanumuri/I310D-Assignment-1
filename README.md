@@ -9,3 +9,6 @@ SAT scores are an important aspect of the college application process. The score
 5. Lastly, I merged this with another dataset which consisted of graduation rates for school. Using the similar DBN value in both datasets, I merged the graduation rates with the SAT scores. As seen in the graph, I found that schools with the highest graduation rates had the highest SAT scores of above 2000. The other scores are quite uniform across schools with varied graduation rates. However, schools with the lowest graduation rates tended to have lower SAT scores.
 6. This new dataset can be found in the repository under '2005-2010_Graduation_Outcomes.'
 7. A potential bias in the data is the fact that the SAT Scores are for 2012. However, the graduation rates only show the rates until 2010. Although it is unlikely that these rates changed significantly, it is important to note. This can be seen in the repository under graph 2.
+
+2005-2010_Graduation_Outcomes_-_School_Level.csv - https://docs.google.com/spreadsheets/d/1iwsQNJJJxqS9KYS2TVlFUyVwDOrfWb6r09skDyLIXGM/edit?usp=sharing
+SATscoreGradrate - https://docs.google.com/spreadsheets/d/122bxKgl6ILLspKaheoECQHFwh6_uRFYtnxgXLMXC64k/edit?usp=sharing
