@@ -14,7 +14,7 @@ Files were too large so they were saved in google sheets -
 2005-2010_Graduation_Outcomes_-_School_Level.csv - https://docs.google.com/spreadsheets/d/1iwsQNJJJxqS9KYS2TVlFUyVwDOrfWb6r09skDyLIXGM/edit?usp=sharing
 SATscoreGradrate - https://docs.google.com/spreadsheets/d/122bxKgl6ILLspKaheoECQHFwh6_uRFYtnxgXLMXC64k/edit?usp=sharing
 
-A data type and description for each attribute in the data
+A data type and description for each attribute in the processed data and original csv
 <img width="1114" alt="Screenshot 2022-09-19 at 3 20 34 PM" src="https://user-images.githubusercontent.com/113871413/191109518-258084ec-2e02-4d1f-bf53-21e8627913a0.png">
 
 API Endpoints for 2012 SAT CSV and 2005-2010 Graduation outcomes
