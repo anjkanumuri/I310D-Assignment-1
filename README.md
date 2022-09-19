@@ -1,5 +1,6 @@
 # I310D-Assignment-1
 SAT Score vs Graduation rate
+
 SAT scores are an important aspect of the college application process. The scores help colleges compare students from different high schools in order to understand students strengths, weaknesses, and readiness for college. Therefore, I believe that higher SAT Scores would have a strong positive correlation with a schools graduation rate. This data collection, processing, and analysis will help me find out if this is true.
 1. Firstly, I collected data on SAT scores by composition in the New York City area, including their school name and average scores. This can be found in the repository under '2012_SAT_Results.csv.'
 2. I then converted the attributes (Number of SAT Test Takers, SAT Critical Reading Avg Score, SAT Math Avg Score, SAT Writing Avg Score) from strings to integers after cleaning some inconsistencies in the data. 
