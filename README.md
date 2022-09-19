@@ -10,5 +10,6 @@ SAT scores are an important aspect of the college application process. The score
 6. This new dataset can be found in the README under the '2005-2010_Graduation_Outcomes' link below. The merged processed data is also below.
 7. A potential bias in the data is the fact that the SAT Scores are for 2012. However, the graduation rates only show the rates until 2010. Although it is unlikely that these rates changed significantly, it is important to note. This can be seen in the repository under graph 2.
 
+Files were too large so they were saved in google sheets - 
 2005-2010_Graduation_Outcomes_-_School_Level.csv - https://docs.google.com/spreadsheets/d/1iwsQNJJJxqS9KYS2TVlFUyVwDOrfWb6r09skDyLIXGM/edit?usp=sharing
 SATscoreGradrate - https://docs.google.com/spreadsheets/d/122bxKgl6ILLspKaheoECQHFwh6_uRFYtnxgXLMXC64k/edit?usp=sharing
