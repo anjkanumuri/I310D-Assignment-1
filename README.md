@@ -13,3 +13,8 @@ SAT scores are an important aspect of the college application process. The score
 Files were too large so they were saved in google sheets - 
 2005-2010_Graduation_Outcomes_-_School_Level.csv - https://docs.google.com/spreadsheets/d/1iwsQNJJJxqS9KYS2TVlFUyVwDOrfWb6r09skDyLIXGM/edit?usp=sharing
 SATscoreGradrate - https://docs.google.com/spreadsheets/d/122bxKgl6ILLspKaheoECQHFwh6_uRFYtnxgXLMXC64k/edit?usp=sharing
+
+A data type and description for each attribute in the data
+<img width="1143" alt="Screenshot 2022-09-19 at 3 18 57 PM" src="https://user-images.githubusercontent.com/113871413/191109350-3560656f-46ff-4003-86b1-2433ea1e99a6.png">
+<img width="1114" alt="Screenshot 2022-09-19 at 3 20 34 PM" src="https://user-images.githubusercontent.com/113871413/191109354-d7185d97-22df-47e4-89c7-ac408c5dcc9b.png"><img width="1114" alt="Screenshot 2022-09-19 at 3 20 34 PM" src="https://user-images.githubusercontent.com/113871413/191109386-f485bbd9-c734-44a6-8e5a-fe9bb000a784.png">
+
